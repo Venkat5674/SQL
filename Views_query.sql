@@ -12,8 +12,8 @@ CREATE TABLE products (
 INSERT INTO products (ProductID, Product, Category, Price) VALUES
 (101, 'Bottle', 'Accessories', 10),
 (102, 'Tire', 'Accessories', 15),
-(103, 'Socks', 'Clothing', 20),
-(104, 'Caps', 'Clothing', 25),
+(103, 'Socks', 'Clothings', 20),
+(104, 'Caps', 'Clothings', 25),
 (105, 'Gloves', 'Clothing', 30),
 (106, 'Helmet', 'Accessories', 40),
 (107, 'Backpack', 'Accessories', 55),
