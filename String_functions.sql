@@ -10,8 +10,8 @@ CREATE TABLE students (
 -- Insert sample data
 INSERT INTO students (full_name, city) VALUES
 ('Venkatesh Pamudurti', 'Guntur'),
-('Lakshmi Sesha Sai Maddineni', 'Vijayawada'),
-('Kushyanth Pothineni', 'Hyderabad');
+('Lakshmi Sesha Sai Maddineni', 'Guntur'),
+('Kushyanth Pothineni', 'Banglore');
 
 ------------------------------------------------------
 -- 1. LENGTH() → Returns length of string
